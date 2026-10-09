@@ -1,6 +1,14 @@
 # 毛球加密货币桌面看板（阿杜）
 
+<p align="center"><img src="assets/wool-orb.png" alt="绿色毛线球和向上箭头" width="220"></p>
+
 Windows 桌面悬浮行情看板。启动后显示可拖动的绿色毛线球；悬停展开，单击固定，再单击收起。默认关注 BTC、ETH、AR、NEAR、LINK、ONDO，可继续添加其他币种。程序只读取公开行情，不连接交易账户，也不提供交易或价格预测。
+
+## 界面预览
+
+![毛球加密货币桌面看板程序界面](assets/interface-preview.png)
+
+截图拍摄于 Windows 版程序运行时；价格和涨跌幅仅代表拍摄瞬间，不是当前行情或预测。
 
 ## 下载与使用
 
