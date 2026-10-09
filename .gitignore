@@ -1,0 +1,11 @@
+state/
+__pycache__/
+.venv/
+.build-venv/
+build/
+dist/
+*.spec
+*.zip
+*.log
+*.dpapi
+*.pyc
